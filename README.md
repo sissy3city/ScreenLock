@@ -20,14 +20,14 @@ Perfect for:
 
 ## 📦 Installation
 
-1. **Right-click** `install-screen-lock.ps1` → **Run as Administrator**
+1. **Right-click** `screenlock.ps1` → **Run as Administrator**
 2. That's it! Your current wallpaper becomes permanently locked.
 
 ---
 
 ## 🔓 Unlock
 
-1. **Right-click** `unlock-screen-lock.ps1` → **Run as Administrator**
+1. **Right-click** `unlock-all.ps1` → **Run as Administrator**
 2. Restart your PC to restore full customization
 
 ---
@@ -47,8 +47,8 @@ Perfect for:
 
 | File | Purpose |
 |------|---------|
-| `install-screen-lock.ps1` | Installs the lock system |
-| `unlock-screen-lock.ps1` | Removes the lock system |
+| `screenlock.ps1` | Installs the lock system |
+| `unlock-all.ps1` | Removes the lock system |
 
 ---
 
