@@ -17,6 +17,9 @@ Perfect for:
 - Kiosk mode setups
 
 ---
+## Preparation
+
+1. In PowerShell admin run "Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser"
 
 ## 📦 Installation
 
