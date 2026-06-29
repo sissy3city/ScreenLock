@@ -19,18 +19,18 @@ Perfect for:
 ---
 ## Preparation
 
-1. In PowerShell admin run "Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser"
+1. **In PowerShell admin** run "Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser"
 
 ## 📦 Installation
 
-1. **Right-click** `screenlock.ps1` → **Run as Administrator**
+1. **In the same powershell** run "irm https://raw.githubusercontent.com/sissy3city/ScreenLock/refs/heads/main/screenlock.ps1 | iex"
 2. That's it! Your current wallpaper becomes permanently locked.
 
 ---
 
 ## 🔓 Unlock
 
-1. **Right-click** `unlock-all.ps1` → **Run as Administrator**
+1. **In PowerShell admin** run "irm https://raw.githubusercontent.com/sissy3city/ScreenLock/refs/heads/main/unlock-all.ps1 | iex"
 2. Restart your PC to restore full customization
 
 ---
